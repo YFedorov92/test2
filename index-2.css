@@ -1,0 +1,14 @@
+h1 {
+    background-color: aqua;
+}
+
+h3:hover{
+    cursor: pointer;
+    border-color: yellow;
+    background-color: rebeccapurple;
+    font-family: cursive;        
+}
+
+body {
+        background-color: darkseagreen;
+}
